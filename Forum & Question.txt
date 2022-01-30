@@ -1,0 +1,9 @@
+
+// Janiel DAHER - FORUM : Install_Mqtt_QtCreator
+
+-------------------------------------------------------------------
+I hope you have successfully installed Mqtt on Qt Creator :) 
+If you have any questions or suggestions about the installation you can put your request here :) 
+
+
+---------------------/* ID */ ----------------------------------------- /* Question - Suggestion */  
